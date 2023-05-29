@@ -1,24 +1,180 @@
-[{
-  "chainId": 5,
-  "logo": "https://www.icevpn.app/coin/eth.png",
-  "name": "ETH Chain",
-  "symbol": "ETH",
-  "token": "ETH",
-  "color": "0xFF6E8AF5",
-  "rpc": "https://goerli.infura.io/v3/95641802991b4c63a4796ee0031029e4",
-  "api": "https://api.etherscan.io/api",
-  "blockUrl": "https://etherscan.io"
-
-},{
-  "chainId": 97,
-  "logo": "https://www.icevpn.app/coin/bnb.png",
-  "name": "Binance Smart Chain",
-  "symbol": "BSC",
-  "token": "BNB",
-  "color": "0xFF6E8AF5",
-  "rpc": "https://nd-905-946-433.p2pify.com/accac5f4cce7f534a9f26be556180ecd",
-  "api": "https://api.bscscan.com/api",
-  "blockUrl": "https://bscscan.com"
-
-}
-]
+[
+    {
+                "rpc": [
+                    {
+                        "name": "EthRpcNo1",
+                        "rpc": "https://rpc.ankr.com/eth"
+                    },
+                    {
+                        "name": "EthRpcNo2",
+                        "rpc": "https://api.mycryptoapi.com/eth"
+                    },
+                    {
+                        "name": "EthRpcNo3",
+                        "rpc": "https://eth-rpc.gateway.pokt.network"
+                    },
+                    {
+                        "name": "EthRpcNo4",
+                        "rpc": "https://api.securerpc.com/v1"
+                    }
+                ],
+                "chainId": 1,
+                "chainName": "Ethereum",
+                "chainSymbol": "Ethereum",
+                "browser": "https://cn.etherscan.com",
+                "api": "https://api.etherscan.io/api",
+                "icon": ""
+            },
+            {
+                "rpc": [
+                    {
+                        "name": "Binance Smart Chain Network No.1",
+                        "rpc": "https://bsc-dataseed1.binance.org"
+                    },
+                    {
+                        "name": "Binance Smart Chain Network No.2",
+                        "rpc": "https://bsc-dataseed2.binance.org"
+                    },
+                    {
+                        "name": "Binance Smart Chain Network No.3",
+                        "rpc": "https://bsc-dataseed3.binance.org"
+                    },
+                    {
+                        "name": "Binance Smart Chain Network No.4",
+                        "rpc": "https://bsc-dataseed4.binance.org"
+                    },
+                    {
+                        "name": "Binance Smart Chain Network No.5",
+                        "rpc": "https://bsc-dataseed1.defibit.io"
+                    },
+                    {
+                        "name": "Binance Smart Chain Network No.6",
+                        "rpc": "https://bsc-dataseed2.defibit.io"
+                    },
+                    {
+                        "name": "Binance Smart Chain Network No.7",
+                        "rpc": "https://bsc-dataseed3.defibit.io"
+                    },
+                    {
+                        "name": "Binance Smart Chain Network No.8",
+                        "rpc": "https://bsc-dataseed4.defibit.io"
+                    },
+                    {
+                        "name": "Binance Smart Chain Network No.9",
+                        "rpc": "https://bsc-dataseed1.ninicoin.io"
+                    },
+                    {
+                        "name": "Binance Smart Chain Network No.10",
+                        "rpc": "https://bsc-dataseed2.ninicoin.io"
+                    },
+                    {
+                        "name": "Binance Smart Chain Network No.11",
+                        "rpc": "https://bsc-dataseed3.ninicoin.io"
+                    },
+                    {
+                        "name": "Binance Smart Chain Network No.12",
+                        "rpc": "https://bsc-dataseed4.ninicoin.io"
+                    },
+                    {
+                        "name": "Binance Smart Chain Network No.13",
+                        "rpc": "https://1rpc.io/bnb"
+                    },
+                    {
+                        "name": "Binance Smart Chain Network No.14",
+                        "rpc": "https://rpc-bsc.bnb48.club"
+                    },
+                    {
+                        "name": "Binance Smart Chain Network No.15",
+                        "rpc": "https://bscrpc.com"
+                    },
+                    {
+                        "name": "Binance Smart Chain Network No.16",
+                        "rpc": "https://rpc.ankr.com/bsc"
+                    },
+                    {
+                        "name": "Binance Smart Chain Network No.17",
+                        "rpc": "https://rpc-bsc.bnb48.club"
+                    }
+                ],
+                "chainId": 56,
+                "chainName": "Binance Smart Chain",
+                "chainSymbol": "BNB Chain",
+                "browser": "https://bscscan.com",
+                "api": "https://api.bscscan.com/api",
+                "icon": "",
+            },
+            {
+                "rpc": [
+                    {
+                        "name": "Polygon Network No.1",
+                        "rpc": "https://rpc-mainnet.matic.network"
+                    },
+                    {
+                        "name": "Polygon Network No.2",
+                        "rpc": "https://rpc-mumbai.maticvigil.com"
+                    },
+                    {
+                        "name": "Polygon Network No.3",
+                        "rpc": "https://polygon-rpc.com"
+                    }
+                ],
+                "chainId": 137,
+                "chainName": "Polygon",
+                "chainSymbol": "Polygon",
+                "browser": "https://polygonscan.com",
+                "api": "https://api.polygonscan.com/api",
+                "icon": ""
+            },
+            {
+                "rpc": [
+                    {
+                        "name": "ArRpcNo1",
+                        "rpc": "https://rpc.ankr.com/arbitrum"
+                    },
+                    {
+                        "name": "ArRpcNo2",
+                        "rpc": "https://arb-mainnet.g.alchemy.com/v2/demo"
+                    },
+                    {
+                        "name": "ArRpcNo3",
+                        "rpc": "https://arb1.arbitrum.io/rpc"
+                    },
+                    {
+                        "name": "ArRpcNo4",
+                        "rpc": "https://1rpc.io/arb"
+                    }
+                ],
+                "chainId": 42161,
+                "chainName": "Arbitrum Ecosystem",
+                "chainSymbol": "Arbitrum",
+                "browser": "https://arbiscan.io/",
+                "api": "https://api.arbiscan.io/api",
+                "icon": ""
+            },
+            {
+                "rpc": [
+                    {
+                        "name": "OpRpcNo1",
+                        "rpc": "https://opt-mainnet.g.alchemy.com/v2/demo"
+                    },
+                    {
+                        "name": "OpRpcNo2",
+                        "rpc": "https://mainnet.optimism.io"
+                    },
+                    {
+                        "name": "OpRpcNo3",
+                        "rpc": "https://1rpc.io/op"
+                    },
+                    {
+                        "name": "OpRpcNo4",
+                        "rpc": "https://optimism-mainnet.public.blastapi.io"
+                    }
+                ],
+                "chainId": 10,
+                "chainName": "Optimism",
+                "chainSymbol": "Optimism",
+                "browser": "https://optimistic.etherscan.io/",
+                "api": "https://api-optimistic.etherscan.io/api",
+                "icon": ""
+            }
+        ]
