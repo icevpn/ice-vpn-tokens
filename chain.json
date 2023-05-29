@@ -1,0 +1,24 @@
+[{
+  "chainId": 5,
+  "logo": "https://www.icevpn.app/coin/eth.png",
+  "name": "ETH Chain",
+  "symbol": "ETH",
+  "token": "ETH",
+  "color": "0xFF6E8AF5",
+  "rpc": "https://goerli.infura.io/v3/95641802991b4c63a4796ee0031029e4",
+  "api": "https://api.etherscan.io/api",
+  "blockUrl": "https://etherscan.io"
+
+},{
+  "chainId": 97,
+  "logo": "https://www.icevpn.app/coin/bnb.png",
+  "name": "Binance Smart Chain",
+  "symbol": "BSC",
+  "token": "BNB",
+  "color": "0xFF6E8AF5",
+  "rpc": "https://nd-905-946-433.p2pify.com/accac5f4cce7f534a9f26be556180ecd",
+  "api": "https://api.bscscan.com/api",
+  "blockUrl": "https://bscscan.com"
+
+}
+]
