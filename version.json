@@ -1,7 +1,7 @@
 {
-    "current_version": "0.0.1",
-    "lowest_version": "0.0.1",
-    "msg_cn": "test",
-    "msg_en": "test",
-    "download_url": "https://drive.google.com/file/d/13XCm5ZlBsoMoHPhIox29UKcmde8ADaE-/view?usp=drive_link"
+    "current_version": "1.0.1",
+    "lowest_version": "1.0.0",
+    "msg_cn": "细节优化，提升稳定性",
+    "msg_en": "Performance optimized",
+    "download_url": "https://bitbucket.org/ice-vpn/ice-vpn/downloads/Ice_VPN_v1.0.1_08150539_release.apk"
 }
