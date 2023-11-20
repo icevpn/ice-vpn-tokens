@@ -1,5 +1,5 @@
 {
-    "current_version": "2.0.5",
+    "current_version": "2.1.0",
     "lowest_version": "2.0.0",
     "ios_version" : "2.0.4",
     "msg_cn": "细节优化，提升稳定性",
