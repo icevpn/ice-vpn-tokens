@@ -1,8 +1,8 @@
 {
-    "current_version": "2.1.0",
+    "current_version": "2.1.4",
     "lowest_version": "2.0.0",
     "ios_version" : "2.0.4",
     "msg_cn": "细节优化，提升稳定性",
     "msg_en": "Performance optimized",
-    "download_url": "https://bitbucket.org/ice-vpn/ice-vpn/downloads/Ice_VPN_v2.1.0_11200136_normal_release.apk"
+    "download_url": "https://bitbucket.org/ice-vpn/ice-vpn/downloads/ICE_NET_v2.1.4_12010212_normal_release.apk"
 }
